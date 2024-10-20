@@ -1,0 +1,3 @@
+red	round	100
+green	square	200
+pink	oval	150
